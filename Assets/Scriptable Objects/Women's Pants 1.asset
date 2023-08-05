@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd7bd15d90005214a95b7910d6637417, type: 3}
+  m_Name: Women's Pants 1
+  m_EditorClassIdentifier: 
+  name: Printed Pants
+  category: Women
+  subCategory: Bottoms
+  sprite: {fileID: 21300000, guid: 2942ad4d88681f54291ebed52b4afaf2, type: 3}
